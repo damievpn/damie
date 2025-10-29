@@ -8,4 +8,4 @@ A minimal, iOS-inspired Android app for Frida injection with a premium interface
 
 📱 Requirements • Android 8.0+ • Root access (Magisk/KernelSU)
 
-💬 Support t.me/damievpn
+💬 Support [Telegram: @damievpn](https://t.me/damievpn)
